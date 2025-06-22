@@ -14,4 +14,3 @@ while tebakan != angka_rahasia:
         print("Terlalu besar!")  # Jika tebakan lebih besar dari angka rahasia
 
 print("Selamat! Kamu menebak dengan benar.")  # Jika tebakan sama dengan angka rahasia
-
