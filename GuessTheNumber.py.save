@@ -1,0 +1,16 @@
+import random  # Mengimpor modul random untuk menghasilkan angka acak
+
+secret_number = random.randint(1, 10)  # Menghasilkan angka acak antara 1 sampai 10
+tebakan = 0  # Nilai awal tebakan diset 0
+
+print("Guess the secret number 1-10")  # Show instruction to player
+
+# Repeat if the guess still wrong
+while guess != secret_number:
+    guess = int(input("Enter your guess: "))  # Meminta input angka dari pemain
+    if guess < secret_number:
+        print("Too low!")  # If the guess too low from the sceret number
+    elif guess > secret_number:
+        print("Too high!")  # If the guess too high from the secret number
+
+print("Congratulations! You guess it right.")  # If the guess same as the secret number
