@@ -1,14 +1,15 @@
-# 🎮Proyek Game
-Selamat datang di Subfolder MiniGames Saya. 
-Saya belajar coding dan saya membuat folder dan Subfolder ini untuk melihat cara kerja coding. Saya akan menaruh hasil coding yang dibuat bertujuan untuk dimainkan akan saya taruh disini.
-Saya sudah membuat permainan contohnya: -GuessTheNumber
+# 🎮Game Project
+Welcome to My MiniGames Subfolder.
+I'm learning to code and trying to make a game.
+If you want to play, you can click the MiniGames Subfolder. Thank you.
+I've made a game for example: -GuessTheNumber
 
-## 📜 Aturan Permainan
-- Komputer memilih angka secara acak
-- Kamu harus menebaknya dalam waktu 60 detik
-- Setiap tebakan salah, skor dikurangi dan nyawa berkurang
-- Skor tertinggi akan disimpan ke file `highscore.txt`
+## 📜 Game Rules
+- The computer chooses a number randomly
+- You have to guess it within 60 seconds
+- Every wrong guess, the score is reduced and lives are reduced
+- The highest score will be saved to the `highscore.txt` file
 
-## 🕹️ Cara Menjalankan
+## 🕹️ How to Run
 
 python3 MiniGames/GuessTheNumber.py
