@@ -1,8 +1,8 @@
 # 🎮Game Project
-Welcome to My MiniGames Subfolder.
-I'm learning to code and trying to make a game.
-If you want to play, you can click the MiniGames Subfolder. Thank you.
-I've made a game for example: -GuessTheNumber
+- Welcome to My MiniGames Subfolder.
+- I'm learning to code and trying to make a game.
+- If you want to play, you can click the MiniGames Subfolder. Thank you.
+- I've made a game for example: -GuessTheNumber
 
 ## 📜 Game Rules
 - The computer chooses a number randomly
