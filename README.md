@@ -1,4 +1,4 @@
-## 🎮Game Project
+# 🎮Game Project
 Welcome to My MiniGames Subfolder.
 I'm learning to code and trying to  make a game.
 If you want to play, you can click  the MiniGames Subfolder. Thank you.
