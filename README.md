@@ -8,6 +8,8 @@ For GuessTheNumber the rules are:
 - The highest score will be saved to the `highscore.txt` file
 
 And the other almost like that
+Or you can test it by yourself
+
 ## 🕹️ How to Run
 bash ''
 python3 MiniGames/GuessTheNumber.py
