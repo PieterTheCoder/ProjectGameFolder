@@ -6,4 +6,4 @@ Test it by yourself
 ## 🕹️ How to Run
 clone the github first
 bash ''
-python3 MiniGames/GuessTheNumber.py
+python3 MiniGames/TheGameYouChoose.py
