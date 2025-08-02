@@ -7,3 +7,4 @@ Test it by yourself and you will know it
 clone the github first
 bash ''
 python3 MiniGames/TheGameYouChoose.py
+if you like some of the game you can give star, Thanks.
