@@ -1,4 +1,5 @@
 ## 🎮 Game Project
+any game
 
 ## 📜 Game Rules
 Test it by yourself and you will know it
