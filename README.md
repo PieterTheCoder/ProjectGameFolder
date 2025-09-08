@@ -1,5 +1,5 @@
 ## 🎮 Game Project
-any game
+any game that i learn
 
 ## 📜 Game Rules
 You can Test it by yourself and you will know it
