@@ -1,7 +1,7 @@
 ## 🎮 Game Project
-any game that i learn.
+Any game that i learn.
 
-## 📜 Game Rules
+## 📜 Game Rules 
 You can Test it by yourself and you will know it.
 
 ## 🕹️ How to Run
