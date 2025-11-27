@@ -2,7 +2,7 @@
 Any game that i learn.
 
 ## 📜 Game Rules 
-You can Test it by yourself and you will know it.
+No rules.
 
 ## 🕹️ How to Run
 Clone the github first
