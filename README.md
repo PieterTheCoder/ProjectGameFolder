@@ -1,10 +1,10 @@
-## 🎮 Game Project
+##~ 🎮 Game Project ~
 Any game that i learn.
 
-## 📜 Game Rules 
+##~ 📜 Game Rules ~
 No rules.
 
-## 🕹️ How to Run
+##~ 🕹️ How to Run ~
 Clone the github first
 bash ''
 python3 MiniGames/TheGameYouChoose.py or just click the link that i send.
