@@ -1,9 +1,6 @@
 ## === 🎮 Game Project ===
 Any game that i learn.
 
-## === 📜 Game Rules ===
-No rules.
-
 ## === 🕹️ How to Run ===
 Clone the github first
 bash ''
